@@ -1,0 +1,1 @@
+print("hai, selamat pagi")
